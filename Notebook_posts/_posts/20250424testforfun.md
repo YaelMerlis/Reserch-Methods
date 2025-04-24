@@ -6,17 +6,19 @@
 
 **Control experiments conditions**
 
-·    Clean sea water
+<li>Clean sea water</li>
 
-·    Duration 20 min (5 min acclimation+15 experiment)
+<li>Duration 20 min (5 min acclimation+15 experiment)</li>
 
-·    Flow rate 22.50 ml/min
+<li> Flow rate 22.50 ml/min</li>
 
-·    One larvae 
+<li>One larvae </li>
 
-·    Undivided chambers 
+<li>Undivided chambers</li>
 
-·    Uses only one from three dividers (on the very bottom position…?)
+<li>Uses only one from three dividers (on the very bottom position…?)</li>
+
+<li>Clean sea water</li>
 
 | Step | Action                                         |
 | ---- | ---------------------------------------------- |
