@@ -70,4 +70,4 @@ questions…
 
    
 
-![Screenshot 2025-04-24 151227](C:\Users\Yael\Documents\github new progect\Reserch-Methods\Notebook_posts\images\Screenshot 2025-04-24 151227.png)
+![SMURF17](C:\Users\Yael\Documents\github new progect\Reserch-Methods\Notebook_posts\images\SMURF17.jpg)
